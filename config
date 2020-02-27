@@ -1,0 +1,4 @@
+IMG_NAME='raspbian'
+FIRST_USER_PASS='josefmtd'
+TARGET_HOSTNAME='Raspi-JosefMTD'
+ENABLE_SSH='1'
